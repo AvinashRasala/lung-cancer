@@ -63,6 +63,11 @@ streamlit run lungcancer.py
 - Predict lung cancer status on the test set and output set.
 - Save the predicted output to a CSV file if desired.
 
+## Outputs
+
+![First Output](screenshots/1.png)
+![Second Output](screenshots/2.png)
+
 ## Future Improvements
 
 - Incorporate feature selection techniques to improve model performance.
